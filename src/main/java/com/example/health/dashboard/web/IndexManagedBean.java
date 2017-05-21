@@ -35,7 +35,7 @@ public class IndexManagedBean {
     private List<LineChartModel> lineCharts;
 
     private String csvContent;
-    private Boolean skipFirstLine = Boolean.FALSE;
+    private Boolean skipFirstLine = Boolean.TRUE;
 
     /**
      *
