@@ -1,6 +1,6 @@
 {
     "name": "Health dashboard",
-    "description": "",
+    "description": "Health dashboard",
     "image": "heroku/java"
 }
 
