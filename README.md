@@ -5,6 +5,11 @@ So, I created a Java web application to display CSV data in charts.
 
 I deployed the application on Heroku. You can see it at [https://my-health-dashboard.herokuapp.com/](https://my-health-dashboard.herokuapp.com/)
 
+![Screenshot form](https://raw.githubusercontent.com/andrescanavesi/health-dashboard/master/src/main/resources/screenshot-form.png)
+
+![Screenshot charts](https://raw.githubusercontent.com/andrescanavesi/health-dashboard/master/src/main/resources/screenshot-charts.png)
+
+
 # Run
 
 It's a **Maven** webapp, so clone or download the source code and open with your favorite IDE (I used Netbeans 8.2).
